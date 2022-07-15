@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Car from '../assets/audi.png';
 import wheel1 from '../assets/wheel1.png';
 import wheel2 from '../assets/wheel2.webp';
